@@ -67,6 +67,7 @@ instance/
 1-MLproject/mlartifacts/
 1-MLproject/mlruns/
 *.pkl
+MLops\2-DLMLFLOW\mlruns/
 # Scrapy stuff:
 .scrapy
 
